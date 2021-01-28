@@ -1,0 +1,78 @@
+﻿body {
+  color: white;
+  background-color: Black;
+  font-family: Lato, Arial;
+  text-align: center;
+}
+
+p {
+  font-size:14pt;
+}
+
+li {
+  padding-bottom: 5px;
+  text-align: left;
+  font-size:10pt;
+}
+
+h1 {
+  color: White;
+}
+
+h2 {
+  padding-top: 50px;
+}
+
+.myClass1 {
+    width: 100%;
+    font-weight: lighter;
+    text-align: center;
+    font-size: 40px;;
+	color: indianred;
+    font-family: Lato, 'sans serif';
+}
+
+.myClass2 {
+    width: 100%;
+    font-weight: bold;
+    text-align: left;
+    font-size: 24px;
+	color: darkgray;
+}
+
+.myClass3 {
+    text-align: center;
+    background-color: yellow;
+    padding: 10px;
+    margin: 5px;
+    font-size: 14px;
+	color: green;
+    font-family: 'Comic Sans MS', Arial;
+}
+
+#myID1 {
+    width: 100%;
+    font-weight: bold;
+    text-align: center;
+    font-size: 50px;;
+	color: indianred;
+    font-family: Lato, 'sans serif';
+}
+
+div {
+
+    background-color: lightblue;
+
+    width: 300px;
+
+    border: 10px solid purple;
+
+    padding: 30px;
+
+    margin: 20px; 
+
+  display:inline;
+
+
+}
+
